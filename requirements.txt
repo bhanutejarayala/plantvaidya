@@ -1,0 +1,10 @@
+google-adk>=2.3.0
+mcp>=1.28.0
+sse-starlette>=3.4.5
+httpx-sse>=0.4.3
+pydantic-settings>=2.14.0
+
+# Only needed for REAL model inference (optional - demo mode works without these)
+tensorflow>=2.15.0
+numpy>=1.26.0
+pillow>=10.0.0

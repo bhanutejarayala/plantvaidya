@@ -1,0 +1,172 @@
+{
+  "Tomato_Bacterial_spot": {
+    "common_name": "Bacterial Spot",
+    "cause": "Xanthomonas bacteria, spread by wind-driven rain and contaminated tools/seeds",
+    "severity": "Moderate to High",
+    "symptoms": "Small, water-soaked circular spots on leaves that turn dark brown with a yellow halo; fruit develops raised scabby spots",
+    "treatment": [
+      "Apply copper-based bactericide (e.g., copper oxychloride 50% WP) at 3g/litre, spray every 7-10 days",
+      "Remove and destroy infected leaves/plants to prevent spread",
+      "Avoid overhead irrigation; water at the base of the plant"
+    ],
+    "prevention": [
+      "Use certified disease-free seeds/seedlings",
+      "Rotate crops with non-solanaceous plants for 2 years",
+      "Maintain 45-60cm plant spacing for airflow"
+    ],
+    "max_safe_copper_dosage_g_per_litre": 3.5
+  },
+  "Tomato_Early_blight": {
+    "common_name": "Early Blight",
+    "cause": "Fungus Alternaria solani, favored by warm humid weather and plant stress",
+    "severity": "Moderate",
+    "symptoms": "Dark brown concentric-ring spots (target-like) on older/lower leaves first, yellowing around lesions",
+    "treatment": [
+      "Apply Mancozeb 75% WP at 2.5g/litre or Chlorothalonil, every 7-10 days",
+      "Remove infected lower leaves immediately",
+      "Improve air circulation by staking/pruning"
+    ],
+    "prevention": [
+      "Mulch soil to prevent spore splash onto lower leaves",
+      "Avoid overhead watering; water early in the day",
+      "Rotate crops annually"
+    ],
+    "max_safe_copper_dosage_g_per_litre": 2.5
+  },
+  "Tomato_Late_blight": {
+    "common_name": "Late Blight",
+    "cause": "Oomycete Phytophthora infestans, spreads rapidly in cool wet conditions",
+    "severity": "Very High - can destroy a crop within days",
+    "symptoms": "Large irregular water-soaked greenish-black patches on leaves, white fuzzy mold on leaf undersides in humid weather, brown lesions on stems and fruit",
+    "treatment": [
+      "Apply Metalaxyl + Mancozeb combination fungicide immediately at first sign",
+      "Remove and destroy (do not compost) infected plants urgently",
+      "Increase spray frequency to every 5-7 days during outbreak conditions"
+    ],
+    "prevention": [
+      "Plant resistant tomato varieties where available",
+      "Avoid working in fields when foliage is wet",
+      "Ensure good drainage and avoid waterlogging"
+    ],
+    "max_safe_copper_dosage_g_per_litre": 3.0
+  },
+  "Tomato_Leaf_Mold": {
+    "common_name": "Leaf Mold",
+    "cause": "Fungus Passalora fulva, thrives in high humidity (>85%) and poor ventilation, common in greenhouses/polyhouses",
+    "severity": "Moderate",
+    "symptoms": "Pale green-yellow spots on upper leaf surface, olive-green to grayish-purple velvety mold on the underside",
+    "treatment": [
+      "Apply Chlorothalonil or copper-based fungicide at label rate",
+      "Increase ventilation immediately, reduce humidity below 85%",
+      "Remove heavily infected leaves"
+    ],
+    "prevention": [
+      "Space plants properly, prune lower leaves for airflow",
+      "Avoid leaf wetness by drip irrigation instead of overhead sprinklers",
+      "Use resistant varieties in greenhouse settings"
+    ],
+    "max_safe_copper_dosage_g_per_litre": 2.5
+  },
+  "Tomato_Septoria_leaf_spot": {
+    "common_name": "Septoria Leaf Spot",
+    "cause": "Fungus Septoria lycopersici, spread by rain splash and prolonged leaf wetness",
+    "severity": "Moderate",
+    "symptoms": "Numerous small circular spots with dark margins and gray/tan centers, tiny black specks (pycnidia) visible in spot centers",
+    "treatment": [
+      "Apply Mancozeb or Chlorothalonil every 7-10 days starting at first symptoms",
+      "Remove infected lower leaves promptly",
+      "Avoid handling wet plants to prevent spreading spores"
+    ],
+    "prevention": [
+      "Mulch to reduce soil splash onto leaves",
+      "Rotate with non-host crops for at least 1 year",
+      "Water at soil level, not on foliage"
+    ],
+    "max_safe_copper_dosage_g_per_litre": 2.5
+  },
+  "Tomato_Spider_mites_Two_spotted_spider_mite": {
+    "common_name": "Two-Spotted Spider Mite",
+    "cause": "Tetranychus urticae, a tiny arachnid pest that thrives in hot, dry conditions",
+    "severity": "Moderate, can escalate quickly in heat",
+    "symptoms": "Fine yellow/white stippling on leaves, fine webbing on undersides in heavy infestations, leaves turn bronze and dry out",
+    "treatment": [
+      "Spray Neem oil (1-2%) or insecticidal soap, covering leaf undersides thoroughly",
+      "For severe infestations, use a labeled miticide (e.g., abamectin) per manufacturer instructions",
+      "Increase humidity around plants; mites dislike moisture"
+    ],
+    "prevention": [
+      "Avoid drought stress; irrigate consistently",
+      "Encourage natural predators (ladybirds, predatory mites)",
+      "Regularly hose down foliage to disrupt mite colonies"
+    ],
+    "max_safe_copper_dosage_g_per_litre": 0
+  },
+  "Tomato__Target_Spot": {
+    "common_name": "Target Spot",
+    "cause": "Fungus Corynespora cassiicola, favored by warm humid conditions",
+    "severity": "Moderate",
+    "symptoms": "Brown circular lesions with concentric target-like rings, can also affect stems and fruit",
+    "treatment": [
+      "Apply Azoxystrobin or Chlorothalonil-based fungicide every 7-14 days",
+      "Remove and destroy infected plant debris",
+      "Improve canopy airflow through pruning"
+    ],
+    "prevention": [
+      "Avoid dense planting",
+      "Practice 2-year crop rotation",
+      "Irrigate at soil level"
+    ],
+    "max_safe_copper_dosage_g_per_litre": 2.5
+  },
+  "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+    "common_name": "Tomato Yellow Leaf Curl Virus (TYLCV)",
+    "cause": "Virus transmitted by whitefly (Bemisia tabaci); no chemical cure once infected",
+    "severity": "Very High - major yield loss risk",
+    "symptoms": "Upward curling and yellowing of leaf margins, stunted plant growth, flower drop, small/no fruit",
+    "treatment": [
+      "There is no cure - remove and destroy infected plants immediately to stop spread",
+      "Control whitefly vector with yellow sticky traps and neem oil sprays",
+      "Use reflective mulches to repel whiteflies"
+    ],
+    "prevention": [
+      "Plant TYLCV-resistant tomato varieties",
+      "Use insect-proof nets/screens in nursery stage",
+      "Control whitefly populations proactively before symptoms appear"
+    ],
+    "max_safe_copper_dosage_g_per_litre": 0
+  },
+  "Tomato__Tomato_mosaic_virus": {
+    "common_name": "Tomato Mosaic Virus (ToMV)",
+    "cause": "Virus spread by contact, contaminated tools, hands, and infected seed; no chemical cure",
+    "severity": "High",
+    "symptoms": "Mottled light/dark green mosaic pattern on leaves, leaf distortion/fern-like narrowing, stunted growth, mottled fruit",
+    "treatment": [
+      "There is no cure - rogue out and destroy infected plants",
+      "Disinfect tools and hands with a 10% bleach or trisodium phosphate solution between plants",
+      "Avoid tobacco use near plants (virus can spread via tobacco products)"
+    ],
+    "prevention": [
+      "Use certified virus-free seed",
+      "Wash hands and sterilize tools between handling plants",
+      "Control aphids and other sap-sucking vectors"
+    ],
+    "max_safe_copper_dosage_g_per_litre": 0
+  },
+  "Tomato_healthy": {
+    "common_name": "Healthy Plant",
+    "cause": "N/A",
+    "severity": "None",
+    "symptoms": "No visible disease symptoms; uniform green foliage",
+    "treatment": [
+      "No treatment needed",
+      "Continue standard watering and fertilization schedule",
+      "Monitor weekly for early signs of pests or disease"
+    ],
+    "prevention": [
+      "Maintain balanced NPK fertilization",
+      "Continue crop rotation practices",
+      "Scout the field weekly during humid/rainy seasons"
+    ],
+    "max_safe_copper_dosage_g_per_litre": 0
+  }
+}
